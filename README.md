@@ -1,9 +1,9 @@
 ## 0sun_code
  Prepare coding test with C++       
  Refer to the text file in each folder for problem description
-
-
-
+             
+            
+                 
 
 
 ## 스터디 진행 방법
@@ -18,9 +18,9 @@
 > 2. 깃허브를 이용하여 코드 공유
 > 3. 줌을 통해 알고리즘 설명 및 질문
 
-
+            
 -----
-
+               
 
 ## 스터디 내용
 ### Part1. 주요 알고리즘 이론 및 실전 문제
