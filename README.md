@@ -1,6 +1,6 @@
 ## 0sun_code
  Prepare coding test with C++
-
+ Refer to the text file in each folder for problem description
 
 
 
