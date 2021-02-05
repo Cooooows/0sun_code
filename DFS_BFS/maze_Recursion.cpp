@@ -5,7 +5,7 @@
 using namespace std;
 
 int N, M;
-int min = 99999999;
+int min = 9999999;
 
 stack <pair<int, int>> stack_;
 vector<vector<int>> map;
