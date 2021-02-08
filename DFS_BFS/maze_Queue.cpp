@@ -33,7 +33,7 @@ void bfs() {
             int current_x = x + dx[i];
             int current_y = y + dy[i];
             if (current_x < 0 || current_y < 0 || current_x >= N || current_y >= M) continue;
-            if (map[current_x][current_y] == 1 && check[current_x][current_y] == 0 ) {
+            if (map[current_x][current_y] == '1' && check[current_x][current_y] == 0 ) {
                 check[current_x][current_y] = check[x][y] + 1;
                 queue_.push(make_pair(current_x, current_y));
             }
